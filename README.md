@@ -1,1 +1,3 @@
-# developspipeline
+# maven-project
+
+Simple Maven Project
